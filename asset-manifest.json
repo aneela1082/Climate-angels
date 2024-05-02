@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Climate-angels/static/css/main.4762c084.css",
+    "main.js": "/Climate-angels/static/js/main.e9580bb6.js",
+    "static/js/453.8fbdb73e.chunk.js": "/Climate-angels/static/js/453.8fbdb73e.chunk.js",
+    "static/media/logo.svg": "/Climate-angels/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Climate-angels/index.html",
+    "main.4762c084.css.map": "/Climate-angels/static/css/main.4762c084.css.map",
+    "main.e9580bb6.js.map": "/Climate-angels/static/js/main.e9580bb6.js.map",
+    "453.8fbdb73e.chunk.js.map": "/Climate-angels/static/js/453.8fbdb73e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4762c084.css",
+    "static/js/main.e9580bb6.js"
+  ]
+}
