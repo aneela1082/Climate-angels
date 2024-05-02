@@ -1,0 +1,15 @@
+.app {
+  display:flex;
+  align-items: stretch;
+  /* width: 1440px;
+  height: 2437px;
+  top: -1218px;
+  left: -720px; */
+  gap: 0px;
+  opacity: 0px;
+
+}
+.sub-app{
+  display:flex;
+  flex-direction: column;
+}

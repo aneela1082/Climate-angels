@@ -1,0 +1,12 @@
+.rightbar{
+    width: 320px;
+height: 612px;
+top: 260px;
+left: 1072px;
+gap: 10px;
+border-radius: 12px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #FFFFFF;
+border: 1px solid #C0C0C0;
+}

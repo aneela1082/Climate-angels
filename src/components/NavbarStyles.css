@@ -1,0 +1,126 @@
+.navbar{
+    width: 272px;
+    height: 810px;
+    padding: 24px 24px 250px 48px;
+    gap: 0px;
+    border: 0px 1px 0px 0px;
+    opacity: 0px;
+    background: #FFFAF4;
+    border-right: 1px solid #E8E8E8
+
+}
+
+.navbar-head{
+    display:flex;
+    align-items: stretch;
+    /* width: 178.29px; */
+    /* height: 48px; */
+    /* top: 24px; */
+    /* left: 48px; */
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.climate-angels{
+    /* width: 120.85px;
+    height: 16.81px;
+    top: 39.59px;
+    left: 105.44px; */
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.navbar-image{
+    width:50px;
+    height:50px;
+}
+
+.navbar-col{
+    display:flex;
+    flex-direction: column;
+    width: Hug (200px)px;
+    height: Hug (440px)px;
+    top: 120px;
+    left: 48px;
+    gap: 3px;
+    opacity: 0px;
+    
+
+}
+
+.portfolio{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+
+
+}
+
+.invest{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+
+}
+
+.syndicates{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.ledger{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.messages{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.events{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.news{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}
+
+.help{
+    width: Fixed (200px)px;
+height: Fixed (48px)px;
+padding: 5px;
+gap: 8px;
+opacity: 0px;
+
+}

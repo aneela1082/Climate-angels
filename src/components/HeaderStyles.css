@@ -1,0 +1,148 @@
+.header {
+    width: Fixed (1, 168px)px;
+    height: Hug (96px)px;
+    left: 272px;
+    padding: 24px 48px 24px 32px;
+    gap: 10px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #E8E8E8;
+    
+
+}
+
+.header1 {
+    width: Fill (1, 088px)px;
+    height: Hug (48px)px;
+    gap: 200px;
+    justify: space-between;
+    opacity: 0px;
+    display: flex;
+    align-items: stretch;
+
+}
+
+.header2 {
+    width: Fixed (320px)px;
+    height: Fixed (48px)px;
+    padding: 10px 10px 10px 16px;
+    gap: 20px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #C0C0C0;
+
+}
+
+.header3 {
+    width: Hug (223px)px;
+    height: Hug (24px)px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+
+.search-icon{
+    width: 16.38px;
+height: 16.38px;
+top: 3.77px;
+left: 3.81px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.search-text{
+    width: 191px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Qanelas Soft;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: center;
+
+}
+
+.profile{
+    width: Hug (271px)px;
+height: Hug (48px)px;
+gap: 16px;
+opacity: 0px;
+margin-right: 5px;
+display: flex;
+align-items: end;
+}
+
+.bell-icon{
+    width: 14px;
+height: 18.38px;
+margin-top: 0px;
+top: 0px;
+margin-bottom: 30px;
+left: 17px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.profile1{
+    width: Hug (207px)px;
+height: Hug (48px)px;
+gap: 8px;
+opacity: 0px;
+display: flex;
+align-items: stretch;
+}
+
+.shailesh-investor{
+    width: Hug (119px)px;
+    height: Hug (48px)px;
+    gap: 10px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.shailesh{
+    width: 150px;
+height: 10px;
+gap: 0px;
+opacity: 0px;
+font-family: Qanelas Soft;
+font-size: 16px;
+font-weight: 600;
+line-height: 10px;
+text-align: left;
+margin: 0px;
+}
+
+.investor{
+    width: 49px;
+height: 5px;
+gap: 0px;
+opacity: 0px;
+font-family: Qanelas Soft;
+font-size: 14px;
+font-weight: 400;
+line-height: 5px;
+text-align: left;
+margin: 0px;
+
+}
+
+.profile-img{
+    width: 48px;
+height: 48px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.circleicon{
+    margin-bottom: 30px;
+}

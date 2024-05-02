@@ -1,0 +1,244 @@
+.card {
+    width: 744px;
+    height: 774px;
+    top: 380px;
+    left: 304px;
+    gap: 10px;
+    border-radius: 12px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #C0C0C0;
+    background: #FFFFFF;
+    padding: 30px;
+
+}
+
+.card-image {
+    width: 450px;
+    height: 274px;
+    top: 336px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.card1 {
+    width: Fixed (697px)px;
+    height: Hug (104px)px;
+    top: 24px;
+    left: 24px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
+.tag-icon {
+    width: Fixed (697px)px;
+    height: Hug (24px)px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+
+}
+
+.ace-group {
+    display: flex;
+    align-items: stretch;
+    width: Fill (697px)px;
+    height: Hug (64px)px;
+    gap: 12px;
+    opacity: 0px;
+
+
+}
+
+.ace-img-div {
+    width: 64px;
+    height: 64px;
+    gap: 0px;
+    border-radius: 48px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #E8E8E8
+}
+
+.ace-img {
+    width: 64px;
+    height: 64px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.ace-grp2 {
+    display: flex;
+    flex-direction: column;
+    width: Fill (621px)px;
+    height: Hug (48px)px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.ace-green {
+    width: 621px;
+    height: 10px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 10px;
+    text-align: left;
+    margin: 4px;
+}
+
+.battery-grp {
+    display: flex;
+    align-items: stretch;
+    width: Fill (621px)px;
+    height: Hug (20px)px;
+    gap: 4px;
+    opacity: 0px;
+    margin: 4px;
+}
+
+.battery-recycle {
+    width: 124px;
+    height: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5px;
+    text-align: left;
+
+}
+
+.slash {
+    width: 5px;
+    height: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5px;
+    text-align: left;
+
+}
+
+.bengaluru {
+    width: 75px;
+    height: 5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5px;
+    text-align: left;
+
+}
+
+.description {
+    width: 696px;
+    height: 160px;
+    top: 160px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Qanelas Soft;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+
+}
+
+.read-more {
+    width: 78px;
+    height: 24px;
+    top: 674px;
+    left: 642px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Qanelas Soft;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: #186E47;
+
+}
+
+.view-deal {
+
+    width: Fixed (160px)px;
+    /* height: Hug (48px)px; */
+    height: fit-content;
+    /* top: 569px; */
+    /* left: 24px; */
+    padding: 1px 1px 1px 1px;
+    gap: 8px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+    border: 1px solid #186E47;
+
+}
+
+.text-view-deal {
+    font-family: Qanelas Soft;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1.25px;
+    text-align: right;
+    width: 89px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    color: #186E47;
+
+
+}
+.line-down{
+    margin-top: 30px;
+}
+
+.date {
+    width: 68px;
+    height: 20px;
+    top: 730px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Qanelas Soft;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+
+}
+
+.img-read {
+    display: flex;
+    flex-direction: column;
+}
+
+.tag {
+    width: Hug (129px)px;
+    height: Hug (24px)px;
+    padding: 4px 16px 4px 16px;
+    gap: 4px;
+    border-radius: 24px 24px 24px 24px;
+    opacity: 0px;
+    background: #E8F0EB;
+    
+
+}
